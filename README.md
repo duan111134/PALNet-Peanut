@@ -10,7 +10,7 @@ This repository provides a 200-sample public dataset for reproducing the PALNet 
 
 The released model uses a **ResNet50 + FPN + ECA + ConfigurableUNet** architecture. Point annotations are converted to Gaussian heatmaps for supervised regression. Predicted heatmaps are processed to recover seedling coordinates.
 
-The training implementation uses `CombinedLoss`, Adam optimization, mixed-precision training, gradient clipping, validation, best-checkpoint selection, and test evaluation.
+The training implementation uses the `CombinedLoss` loss function and the Adam optimizer, with mixed-precision training, gradient clipping, validation, best-checkpoint selection, and test evaluation.
 
 ## 3. Public dataset
 
@@ -28,14 +28,14 @@ Images and annotations correspond by the same file stem.
 
 ## 4. Dataset split
 
-The public split contains:
+The provided CSV contains the sample assignments used by this public release: peanut2024_split.csv.
 
 - Train: 120
 - Validation: 40
 - Test: 40
 - Total: 200
 
-The split file contains the columns `image`, `annotation`, and `split`. The code reads these assignments directly and does not generate a new random partition.
+The CSV contains three columns: `image`, `annotation`, and `split`. The code reads these assignments directly rather than generating a new random split.
 
 ## 5. Repository structure
 
