@@ -1,0 +1,108 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "peanut",
+      "points": [
+        [
+          228.80829015544043,
+          626.7357512953369
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          9.119170984455991,
+          629.8445595854922
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          40.725388601036286,
+          98.75647668393783
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          53.160621761658064,
+          7.046632124352343
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          283.21243523316065,
+          75.95854922279794
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          273.8860103626943,
+          3.419689119170996
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          501.34715025906735,
+          35.02590673575131
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../images/resized_block_22.tif_sub_2_2.tif",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}

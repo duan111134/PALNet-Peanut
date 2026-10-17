@@ -1,0 +1,346 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "peanut",
+      "points": [
+        [
+          6.0103626943005395,
+          17.927461139896387
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          15.336787564766865,
+          84.24870466321245
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          9.119170984455991,
+          202.38341968911917
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          188.9119170984456,
+          480.6217616580311
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          185.80310880829018,
+          394.6113989637306
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          184.2487046632125,
+          307.04663212435236
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          184.7668393782384,
+          226.21761658031087
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          195.1295336787565,
+          188.3937823834197
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          202.3834196891192,
+          152.12435233160622
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          178.54922279792748,
+          106.01036269430054
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          179.06735751295338,
+          586.839378238342
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          397.2020725388602,
+          604.9740932642487
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          384.7668393782384,
+          500.8290155440415
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          396.6839378238342,
+          382.17616580310886
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          380.6217616580311,
+          429.8445595854923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          404.9740932642487,
+          256.2694300518135
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          388.39378238341976,
+          195.6476683937824
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          404.4559585492228,
+          113.78238341968914
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          403.41968911917104,
+          66.11398963730572
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          597.2020725388602,
+          92.02072538860105
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          607.5647668393783,
+          169.74093264248705
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          618.9637305699482,
+          261.4507772020726
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          631.9170984455959,
+          304.9740932642487
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "peanut",
+      "points": [
+        [
+          626.217616580311,
+          590.4663212435233
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../images/resized_block_14.tif_sub_8_8.tif",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}

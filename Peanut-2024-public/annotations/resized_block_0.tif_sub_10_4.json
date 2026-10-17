@@ -1,0 +1,24 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "peanut",
+      "points": [
+        [
+          287.35751295336786,
+          238.13471502590673
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "../images/resized_block_0.tif_sub_10_4.tif",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640
+}
