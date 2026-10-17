@@ -10,7 +10,7 @@ This repository provides a 200-sample public dataset for reproducing the PALNet 
 
 The released model uses a **ResNet50 + FPN + ECA + ConfigurableUNet** architecture. Point annotations are converted to Gaussian heatmaps for supervised regression. Predicted heatmaps are processed to recover seedling coordinates.
 
-The training implementation uses the `CombinedLoss` loss function and the Adam optimizer, with mixed-precision training, gradient clipping, validation, best-checkpoint selection, and test evaluation.
+The training implementation uses the CombinedLoss loss function and the Adam optimizer, with mixed-precision training, gradient clipping, validation, best-checkpoint selection, and test evaluation.
 
 ## 3. Public dataset
 
@@ -35,7 +35,7 @@ The provided CSV contains the sample assignments used by this public release: pe
 - Test: 40
 - Total: 200
 
-The CSV contains three columns: `image`, `annotation`, and `split`. The code reads these assignments directly rather than generating a new random split.
+The CSV contains three columns: image, annotation, and split. The code reads these assignments directly rather than generating a new random split.
 
 ## 5. Repository structure
 
@@ -50,7 +50,7 @@ PALNet/
 └── PALNet原始代码.py  (historical backup; not part of the formal release)
 ```
 
-The formal release consists of `PALNet.py`, `README.md`, `requirements.txt`, and the split CSV. The historical backup is retained locally for reference and should not be included in the formal release.
+The formal release consists of PALNet.py, README.md, requirements.txt, and the split CSV. The historical backup is retained locally for reference and should not be included in the formal release.
 
 When the public data are available locally, organize them as:
 
@@ -62,7 +62,7 @@ Peanut-2024-public/
     └── 200 LabelMe JSON files
 ```
 
-The split CSV is kept at the repository root. Each JSON `imagePath` uses the relative form:
+The split CSV is kept at the repository root. Each JSON imagePath uses the relative form:
 
 ```text
 ../images/<image_filename>.tif
@@ -122,7 +122,7 @@ The script does not provide a separate evaluation-only command-line interface.
 
 ## 9. Reproducibility
 
-Use the supplied split CSV directly. The code reads the `train`, `validation`, and `test` assignments from the CSV and does not generate a new random split. The random seed is 42.
+Use the supplied split CSV directly. The code reads the train, validation, and test assignments from the CSV and does not generate a new random split. The random seed is 42.
 
 ## 10. Data and code availability
 
